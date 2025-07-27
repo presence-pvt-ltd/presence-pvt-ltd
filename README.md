@@ -1,4 +1,15 @@
-# ![logo](images/logo.png) Presence
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none;">
+      <img src="images/logo.png" alt="App Icon" width="64" height="64">
+    </td>
+    <td style="vertical-align: middle; padding-left: 16px; border: none;">
+      <h1 style="margin: 0; display: flex; align-items: center; height: 64px; border: none; text-decoration: none;">Presence</h1>
+    </td>
+  </tr>
+</table>
+
+
 
 Take attendance without any hasle and without wasting any lecture time, Get daily update of your attendance on your device.
 
